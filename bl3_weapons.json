@@ -1,0 +1,1489 @@
+[{
+        "Tier": "C",
+        "Name": "9-Volt",
+        "Type": "SMG",
+        "Brand": "Dahl",
+        "Drops From": "Killavolt",
+        "Description": "Shoots multiple shock pellets in a shape of a upsidedown triangle"
+    },
+    {
+        "Tier": "B",
+        "Name": "AAA",
+        "Type": "Pistol",
+        "Brand": "Dahl",
+        "Drops From": "World Drop",
+        "Description": "Shoots electric pellets in the shape of an inverted triangle"
+    },
+    {
+        "Tier": "B",
+        "Name": "Alchemist",
+        "Type": "Assault Rifle",
+        "Brand": "Torgue",
+        "Drops From": "World Drop",
+        "Description": "Fires gyrojets that explode when reloading, Each shot lowers health/shield"
+    },
+    {
+        "Tier": "D",
+        "Name": "Amazing Grace",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "S",
+        "Name": "Anarchy",
+        "Type": "Shotgun",
+        "Brand": "Tediore",
+        "Drops From": "Gun, Love, and Tentacles",
+        "Description": ""
+    },
+    {
+        "Tier": "E",
+        "Name": "ASMD",
+        "Type": "Sniper Rifle",
+        "Brand": "Maliwan",
+        "Drops From": "World Drop",
+        "Description": "Hip fire shoots out slow moving orbs that deal elemental damage. Scoped shots fire fast projectiles"
+    },
+    {
+        "Tier": "D",
+        "Name": "Auto Aime",
+        "Type": "Sniper Rifle",
+        "Brand": "Dahl",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Baby Maker ++",
+        "Type": "Pistol",
+        "Brand": "Tediore",
+        "Drops From": "World Drop",
+        "Description": "Explodes when reloaded and releases a number of homing pellets"
+    },
+    {
+        "Tier": "D",
+        "Name": "Bangarang XL",
+        "Type": "Pistol",
+        "Brand": "Tediore",
+        "Drops From": "World Drop",
+        "Description": "Reload flies around continuously spinning & shooting rapidly"
+    },
+    {
+        "Tier": "C",
+        "Name": "Barrage",
+        "Type": "Assault Rifle",
+        "Brand": "Dahl",
+        "Drops From": "World Drop",
+        "Description": "Burst fire weapon with a fast fire rate"
+    },
+    {
+        "Tier": "E",
+        "Name": "Bearcat",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "Bekah",
+        "Type": "Assault Rifle",
+        "Brand": "Jakobs",
+        "Drops From": "Complete all Legendary Hunts",
+        "Description": ""
+    },
+    {
+        "Tier": "D",
+        "Name": "Bitch, The",
+        "Type": "SMG",
+        "Brand": "Hyperion",
+        "Drops From": "",
+        "Description": "Extremely accurate weapon. Has a critical damage buff"
+    },
+    {
+        "Tier": "X",
+        "Name": "Boo +, The",
+        "Type": "SMG",
+        "Brand": "Tediore",
+        "Drops From": "Side Mission",
+        "Description": "Spawned Turrets chase after enemies & explodes when expiring"
+    },
+    {
+        "Tier": "D",
+        "Name": "Boomer",
+        "Type": "SMG",
+        "Brand": "Dahl",
+        "Drops From": "Moxxi's Heist",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Boring Gun, The",
+        "Type": "Shotgun",
+        "Brand": "Torgue",
+        "Drops From": "World Drop",
+        "Description": "Shoots buzzsaws that travel on the floor"
+    },
+    {
+        "Tier": "A",
+        "Name": "Brainstormer",
+        "Type": "Shotgun",
+        "Brand": "Hyperion",
+        "Drops From": "World Drop",
+        "Description": "Vertical row spread that chain shocks enemies within each other's range"
+    },
+    {
+        "Tier": "X",
+        "Name": "Brashi's Dedication",
+        "Type": "Sniper Rifle",
+        "Brand": "Dahl",
+        "Drops From": "Side Mission",
+        "Description": "Shoots 2 bullets in a unique circling pattern"
+    },
+    {
+        "Tier": "A",
+        "Name": "Breath of the Dying",
+        "Type": "Assault Rifle",
+        "Brand": "Dahl",
+        "Drops From": "World Drop",
+        "Description": "Shoots out 3 bullets that travel in a cone-like trajectory"
+    },
+    {
+        "Tier": "D",
+        "Name": "Breeder",
+        "Type": "Pistol",
+        "Brand": "Torgue",
+        "Drops From": "World Loot",
+        "Description": "Spawns multiple child grenades where it is shot"
+    },
+    {
+        "Tier": "B",
+        "Name": "Butcher, The",
+        "Type": "Shotgun",
+        "Brand": "Hyperion",
+        "Drops From": "",
+        "Description": "High DPS weapon due to extremely fast fire rate"
+    },
+    {
+        "Tier": "X",
+        "Name": "Buttplug",
+        "Type": "Pistol",
+        "Brand": "Jakobs",
+        "Drops From": "Side Mission",
+        "Description": "Does more damage when you melee enemies on their butts"
+    },
+    {
+        "Tier": "A",
+        "Name": "Carrier",
+        "Type": "Assault Rifle",
+        "Brand": "Atlas",
+        "Drops From": "World Drop",
+        "Description": "Smart-Bullets ricochets and hones in randomly to enemies"
+    },
+    {
+        "Tier": "C",
+        "Name": "Cheap Tips",
+        "Type": "SMG",
+        "Brand": "Hyperion",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "Clairvoyance",
+        "Type": "Assault Rifle",
+        "Brand": "Jakobs",
+        "Drops From": "World Drop",
+        "Description": "Cryo. Crit leaves a sticky bomb"
+    },
+    {
+        "Tier": "C",
+        "Name": "Cloud Kill",
+        "Type": "SMG",
+        "Brand": "Maliwan",
+        "Drops From": "Drops from main story boss",
+        "Description": "Creates a cloud of radiation around targets"
+    },
+    {
+        "Tier": "A",
+        "Name": "Cocky Bastard",
+        "Type": "Sniper Rifle",
+        "Brand": "Jakobs",
+        "Drops From": "",
+        "Description": "On crit deals shock equivalent to crit"
+    },
+    {
+        "Tier": "X",
+        "Name": "Cold Shoulder",
+        "Type": "Sniper Rifle",
+        "Brand": "Vladof",
+        "Drops From": "Mission Reward",
+        "Description": "Extremely high Cryo damage"
+    },
+    {
+        "Tier": "C",
+        "Name": "Companion, The",
+        "Type": "Pistol",
+        "Brand": "Jakobs",
+        "Drops From": "World Drop",
+        "Description": "Instantly ignites enemies during critical hits"
+    },
+    {
+        "Tier": "A",
+        "Name": "Conference Call",
+        "Type": "Shotgun",
+        "Brand": "Hyperion",
+        "Drops From": "World Drop",
+        "Description": "Pellets that connect with an enemy will ricochet to another enemy"
+    },
+    {
+        "Tier": "B",
+        "Name": "Craps",
+        "Type": "Pistol",
+        "Brand": "Torgue",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Creamer",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "E",
+        "Name": "Creeping Death",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "X",
+        "Name": "Crit",
+        "Type": "SMG",
+        "Brand": "Maliwan",
+        "Drops From": "Tip Moxxxie",
+        "Description": "Heals a portion of elemental damage dealt. Can drop off when being reloaded"
+    },
+    {
+        "Tier": "B",
+        "Name": "Crossroad",
+        "Type": "SMG",
+        "Brand": "Hyperion",
+        "Drops From": "Drops from Loot Tinks",
+        "Description": "Fires 4 high damage rounds with every shot"
+    },
+    {
+        "Tier": "S",
+        "Name": "Cutsman",
+        "Type": "SMG",
+        "Brand": "Maliwan",
+        "Drops From": "World Drop",
+        "Description": "Shoots two projectiles connected by a string of energy that hits enemies multiple times"
+    },
+    {
+        "Tier": "B",
+        "Name": "Damned",
+        "Type": "Assault Rifle",
+        "Brand": "Vladof",
+        "Drops From": "World Drop",
+        "Description": "Has a shield similar to Hyperion guns"
+    },
+    {
+        "Tier": "X",
+        "Name": "Dead Chamber",
+        "Type": "Pistol",
+        "Brand": "Jakobs",
+        "Drops From": "Mission Malevolent Practice",
+        "Description": "50% chance to buff weapon on reload"
+    },
+    {
+        "Tier": "C",
+        "Name": "Destructo Spinner",
+        "Type": "SMG",
+        "Brand": "Maliwan",
+        "Drops From": "World Drop",
+        "Description": "Shoots in a unique spiral pattern. Alternates between radiation and shock when shot."
+    },
+    {
+        "Tier": "C",
+        "Name": "Devastator",
+        "Type": "Pistol",
+        "Brand": "Torgue",
+        "Drops From": "World Drop",
+        "Description": "Deals heavy splash damage over a wide area"
+    },
+    {
+        "Tier": "C",
+        "Name": "Devils Foursum",
+        "Type": "Pistol",
+        "Brand": "Torgue",
+        "Drops From": "World Drop",
+        "Description": "Fires 3 bullets that converge on a certain point"
+    },
+    {
+        "Tier": "C",
+        "Name": "Devoted",
+        "Type": "SMG",
+        "Brand": "Maliwan",
+        "Drops From": "World Drop",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "Dictator, The",
+        "Type": "Assault Rifle",
+        "Brand": "Vladof",
+        "Drops From": "World Drop",
+        "Description": "Shoots 3 bullets when in rifle mode. Shoots 7 bullets when in bipod mode"
+    },
+    {
+        "Tier": "B",
+        "Name": "Duc, The",
+        "Type": "Pistol",
+        "Brand": "Jakobs",
+        "Drops From": "World Drop",
+        "Description": "Projectile will stick to target and detonate after a few seconds"
+    },
+    {
+        "Tier": "D",
+        "Name": "Echo",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "B",
+        "Name": "EM-P5",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "D",
+        "Name": "Embers Purge",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Embrace the Pain",
+        "Type": "Assault Rifle",
+        "Brand": "Cov",
+        "Drops From": "World Drop",
+        "Description": "After reaching a certain threshold, it will stop consuming ammo, and ignite the user"
+    },
+    {
+        "Tier": "C",
+        "Name": "Execute",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Face Puncher",
+        "Type": "Shotgun",
+        "Brand": "Hyperion",
+        "Drops From": "World Drop",
+        "Description": "Deals increased melee damage"
+    },
+    {
+        "Tier": "B",
+        "Name": "Faisor",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Fearmonger",
+        "Type": "Shotgun",
+        "Brand": "Hyperion",
+        "Drops From": "Bloody Harvest Event",
+        "Description": "Shoot 4 sticky pellets that explode after a time"
+    },
+    {
+        "Tier": "X",
+        "Name": "Fingerbiter",
+        "Type": "Shotgun",
+        "Brand": "Jakobs",
+        "Drops From": "Side Mission",
+        "Description": "Bullets ricochet even without hitting criticals"
+    },
+    {
+        "Tier": "B",
+        "Name": "Firestorm",
+        "Type": "Sniper Rifle",
+        "Brand": "Maliwan",
+        "Drops From": "World Drop",
+        "Description": "High damage fire sniper rifle. Summons fireballs that rain down on targets"
+    },
+    {
+        "Tier": "A",
+        "Name": "Flakker",
+        "Type": "Shotgun",
+        "Brand": "Torgue",
+        "Drops From": "World Drop",
+        "Description": "Creates a wall of explosions when fired"
+    },
+    {
+        "Tier": "B",
+        "Name": "Flama Diddle",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Flood, The",
+        "Type": "Pistol",
+        "Brand": "Jakobs",
+        "Drops From": "World Drop",
+        "Description": "Extremely high fire rate pistol"
+    },
+    {
+        "Tier": "C",
+        "Name": "Freeman",
+        "Type": "Rocket Launcher",
+        "Brand": "Atlas",
+        "Drops From": "The Warden",
+        "Description": "Fired missiles can be controlled by moving the crosshair"
+    },
+    {
+        "Tier": "D",
+        "Name": "Frozen Devil",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "Garcia",
+        "Type": "Shotgun",
+        "Brand": "Jakobs",
+        "Drops From": "",
+        "Description": "Massive mag for Jakobs"
+    },
+    {
+        "Tier": "C",
+        "Name": "Gatling Gun",
+        "Type": "Assault Rifle",
+        "Brand": "Jakobs",
+        "Drops From": "World Drop",
+        "Description": "Fires bullets by operating a crank attached to the side of the gun"
+    },
+    {
+        "Tier": "X",
+        "Name": "Gettleburger",
+        "Type": "Rocket Launcher",
+        "Brand": "Torgue",
+        "Drops From": "Side Mission",
+        "Description": "Shoots burgers that does corrosive damage"
+    },
+    {
+        "Tier": "E",
+        "Name": "Girth Blaster",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "Good Juju",
+        "Type": "Assault Rifle",
+        "Brand": "Dahl",
+        "Drops From": "Mayhem 4",
+        "Description": ""
+    },
+    {
+        "Tier": "D",
+        "Name": "Gunerang XL",
+        "Type": "Pistol",
+        "Brand": "Tediore",
+        "Drops From": "World Drop",
+        "Description": "Reload flies around like a Boomerang"
+    },
+    {
+        "Tier": "E",
+        "Name": "Hand Of Glory",
+        "Type": "Assault Rifle",
+        "Brand": "Jakobs",
+        "Drops From": "World Drop",
+        "Description": "Fires in bursts of either 1 to 3 bullets"
+    },
+    {
+        "Tier": "C",
+        "Name": "Handsome Jackhammer",
+        "Type": "SMG",
+        "Brand": "Hyperion",
+        "Drops From": "World Drop",
+        "Description": "Thrown weapon that empties its magazine over an area. It also bounces in an area, dealing splash damage per bounce"
+    },
+    {
+        "Tier": "B",
+        "Name": "Headsplosion",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Heart Breaker",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Hellfire",
+        "Type": "SMG",
+        "Brand": "Dahl",
+        "Drops From": "Jabbermogwai",
+        "Description": "High fire elemental damage weapon"
+    },
+    {
+        "Tier": "S",
+        "Name": "Hellshock",
+        "Type": "Pistol",
+        "Brand": "Maliwan",
+        "Drops From": "World Drop",
+        "Description": "Ricochet switches projectile element"
+    },
+    {
+        "Tier": "B",
+        "Name": "Hellwalker",
+        "Type": "Shotgun",
+        "Brand": "Jakobs",
+        "Drops From": "World Drop",
+        "Description": "Always Fire Element, fires 10 pellets in pentagon pattern. Each shot will play a metal guitar riff"
+    },
+    {
+        "Tier": "C",
+        "Name": "Hive",
+        "Type": "Rocket Launcher",
+        "Brand": "Torgue",
+        "Drops From": "Princess Tarantella II The Splinterlands",
+        "Description": "Launches hovering ball that shoots many rockets before exploding"
+    },
+    {
+        "Tier": "C",
+        "Name": "Horizon +, The",
+        "Type": "Shotgun",
+        "Brand": "Tediore",
+        "Drops From": "World Drop",
+        "Description": "Reload projects target that can be shot to create a Singularity"
+    },
+    {
+        "Tier": "C",
+        "Name": "Hornet",
+        "Type": "Pistol",
+        "Brand": "Dahl",
+        "Drops From": "World Drop",
+        "Description": "Fast firing splash damage weapon"
+    },
+    {
+        "Tier": "X",
+        "Name": "Hunted, The",
+        "Type": "Sniper Rifle",
+        "Brand": "Jakobs",
+        "Drops From": "Side Mission",
+        "Description": "Higher damage against Robots"
+    },
+    {
+        "Tier": "B",
+        "Name": "Hydrafrost",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "E",
+        "Name": "Hyper-Hydrator",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "Hyperfocus XZ41",
+        "Type": "SMG",
+        "Brand": "Hyperion",
+        "Drops From": "World Drop",
+        "Description": "Front shield reflects bullets back at attackers"
+    },
+    {
+        "Tier": "D",
+        "Name": "Infinity",
+        "Type": "Pistol",
+        "Brand": "Vladof",
+        "Drops From": "World Loot",
+        "Description": "Has infinite ammo. Fires in an infinity symbol pattern"
+    },
+    {
+        "Tier": "A",
+        "Name": "Insider",
+        "Type": "Shotgun",
+        "Brand": "Maliwan",
+        "Drops From": "Gun, Love, and Tentacles",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "ION Cannon",
+        "Type": "Rocket Launcher",
+        "Brand": "Vladof",
+        "Drops From": "Moxxi's Heist",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "ION Laser",
+        "Type": "SMG",
+        "Brand": "Maliwan",
+        "Drops From": "World Drop (EVIL Saint Lawrence in The Spendopticon)",
+        "Description": ""
+    },
+    {
+        "Tier": "D",
+        "Name": "Jericho",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "B",
+        "Name": "Juliet's Dazzle",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "B",
+        "Name": "Kaos",
+        "Type": "Assault Rifle",
+        "Brand": "Dahl",
+        "Drops From": "World Drop",
+        "Description": "Enemies affected by the gun's status effect will blow up, damaging nearby enemies"
+    },
+    {
+        "Tier": "B",
+        "Name": "Kill-o'-the-Wisp",
+        "Type": "Shotgun",
+        "Brand": "Maliwan",
+        "Drops From": "World Drop",
+        "Description": "Charge up to shoot a large slow shock orb"
+    },
+    {
+        "Tier": "X",
+        "Name": "Killing Word, The",
+        "Type": "Pistol",
+        "Brand": "Cov",
+        "Drops From": "TBA",
+        "Description": "Shoots in a wavy-ish pattern"
+    },
+    {
+        "Tier": "B",
+        "Name": "King's Call",
+        "Type": "Pistol",
+        "Brand": "Jakobs",
+        "Drops From": "Drops from main story boss",
+        "Description": "Critical hits return 3 bullets to your magazine and ricochet 3 bullets at the nearest enemy"
+    },
+    {
+        "Tier": "S",
+        "Name": "Krakatoa",
+        "Type": "Sniper Rifle",
+        "Brand": "Maliwan",
+        "Drops From": "Gigamind",
+        "Description": "Extremely high fire damage"
+    },
+    {
+        "Tier": "S",
+        "Name": "Kyb's Worth",
+        "Type": "SMG",
+        "Brand": "Maliwan",
+        "Drops From": "Takedown at Maliwan's Blacksite",
+        "Description": "Spawns healing aura from defeated enemies"
+    },
+    {
+        "Tier": "B",
+        "Name": "Laser-Sploder",
+        "Type": "Assault Rifle",
+        "Brand": "Torgue",
+        "Drops From": "Drops from Loot Tinks",
+        "Description": "Fires explosive rounds and a stream of laser"
+    },
+    {
+        "Tier": "B",
+        "Name": "Lead Sprinkler",
+        "Type": "Assault Rifle",
+        "Brand": "Jakobs",
+        "Drops From": "Billy the Anointed",
+        "Description": "Summons two explosives when it hits a target"
+    },
+    {
+        "Tier": "X",
+        "Name": "Leech, The",
+        "Type": "Pistol",
+        "Brand": "Vladof",
+        "Drops From": "Mission Reward",
+        "Description": "Underbarrel grenades leeches off multiple enemies in area and heals user"
+    },
+    {
+        "Tier": "B",
+        "Name": "Linage",
+        "Type": "Pistol",
+        "Brand": "Cov",
+        "Drops From": "World Drop",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Linc",
+        "Type": "Pistol",
+        "Brand": "Atlas",
+        "Drops From": "World Drop",
+        "Description": "Include unique tracker grenades that hones in on enemies"
+    },
+    {
+        "Tier": "A",
+        "Name": "Little Yeeti",
+        "Type": "Pistol",
+        "Brand": "Jakobs",
+        "Drops From": "Gun, Love, and Tentacles",
+        "Description": ""
+    },
+    {
+        "Tier": "S",
+        "Name": "Lob, The",
+        "Type": "Shotgun",
+        "Brand": "Torgue",
+        "Drops From": "World Drop",
+        "Description": "Shoots slow moving orbs that deal damage over time"
+    },
+    {
+        "Tier": "A",
+        "Name": "Love Drill",
+        "Type": "",
+        "Brand": "Jakobs",
+        "Drops From": "World Drop (Eleanor in Heart's Desire on Xylourgos)",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "Lucian's Call",
+        "Type": "Assault Rifle",
+        "Brand": "Vladof",
+        "Drops From": "World Drop",
+        "Description": "Critical hits return 2 bullets to your magazine and ricochet 2 bullets to the nearest enemy. Fast fire rate, high recoil"
+    },
+    {
+        "Tier": "A",
+        "Name": "Lucky-7",
+        "Type": "Pistol",
+        "Brand": "Jakobs",
+        "Drops From": "World Drop",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "Lyuda",
+        "Type": "Sniper Rifle",
+        "Brand": "Vladof",
+        "Drops From": "World Drop",
+        "Description": "Highly accurate, high damage sniper rifle"
+    },
+    {
+        "Tier": "A",
+        "Name": "Maggie",
+        "Type": "Pistol",
+        "Brand": "Jakobs",
+        "Drops From": "World Drop",
+        "Description": "Critical hits ricochet a bullet to another enemy"
+    },
+    {
+        "Tier": "D",
+        "Name": "Magnificent",
+        "Type": "Pistol",
+        "Brand": "Vladof",
+        "Drops From": "World Drop",
+        "Description": "High fire rate pistol with an alternate firing mode which allows it to function as a taser"
+    },
+    {
+        "Tier": "D",
+        "Name": "Malak's Bane",
+        "Type": "Sniper Rifle",
+        "Brand": "Dahl",
+        "Drops From": "World Drop",
+        "Description": "Firing mode allows you to switch between sniper and shotgun mode"
+    },
+    {
+        "Tier": "C",
+        "Name": "Masterwork Crossbow",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Mind-Killer",
+        "Type": "Shotgun",
+        "Brand": "Maliwan",
+        "Drops From": "Mouthpiece Boss",
+        "Description": "Does normal and charged shots"
+    },
+    {
+        "Tier": "C",
+        "Name": "Monocle",
+        "Type": "Sniper Rifle",
+        "Brand": "Jakobs",
+        "Drops From": "World Drop",
+        "Description": ""
+    },
+    {
+        "Tier": "S",
+        "Name": "Moonfire",
+        "Type": "Pistol",
+        "Brand": "Torgue",
+        "Drops From": "World Drop, Wotan",
+        "Description": "Every third shot does triple damage"
+    },
+    {
+        "Tier": "D",
+        "Name": "Musket",
+        "Type": "SMG",
+        "Brand": "Tediore",
+        "Drops From": "World Drop",
+        "Description": "High damage flamethrower, Explodes or creates a turret when reloaded"
+    },
+    {
+        "Tier": "C",
+        "Name": "Mutant",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "B",
+        "Name": "Nemesis",
+        "Type": "Pistol",
+        "Brand": "Dahl",
+        "Drops From": "World Drop",
+        "Description": "Semi-Auto / 3-round burst. Deals additional shock damage"
+    },
+    {
+        "Tier": "D",
+        "Name": "Night Flyer",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "Night Hawkin",
+        "Type": "SMG",
+        "Brand": "Dahl",
+        "Drops From": "World Drop",
+        "Description": "Has a change to deal a different type of elemental damage"
+    },
+    {
+        "Tier": "B",
+        "Name": "Nimble Jack",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "Nothingness",
+        "Type": "Shotgun",
+        "Brand": "Maliwan",
+        "Drops From": "World Drop",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "Nukem",
+        "Type": "Rocket Launcher",
+        "Brand": "Torgue",
+        "Drops From": "World Drop",
+        "Description": ""
+    },
+    {
+        "Tier": "X",
+        "Name": "Null Pointer",
+        "Type": "Sniper Rifle",
+        "Brand": "Hyperion",
+        "Drops From": "Story Mission Reward",
+        "Description": "High stat sniper rifle"
+    },
+    {
+        "Tier": "D",
+        "Name": "Occultist",
+        "Type": "Pistol",
+        "Brand": "Torgue",
+        "Drops From": "World Drop",
+        "Description": "Fires a rocket surrounded by other rockets that deal high splash damage"
+    },
+    {
+        "Tier": "C",
+        "Name": "Ogre",
+        "Type": "Assault Rifle",
+        "Brand": "Vladof",
+        "Drops From": "World Drop",
+        "Description": "Spins its barrel to shoot bullets that deal splash damage"
+    },
+    {
+        "Tier": "B",
+        "Name": "Oldridion",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "B",
+        "Name": "One Pump Chump",
+        "Type": "Shotgun",
+        "Brand": "Jakobs",
+        "Drops From": "One Punch Psycho",
+        "Description": "Always has a 1000x damage multiplier"
+    },
+    {
+        "Tier": "C",
+        "Name": "Pain is Power (More)",
+        "Type": "Assault Rifle",
+        "Brand": "Cov",
+        "Drops From": "World Drop",
+        "Description": "Can randomly set user on fire when firing"
+    },
+    {
+        "Tier": "C",
+        "Name": "Pestilence",
+        "Type": "Pistol",
+        "Brand": "Cov",
+        "Drops From": "World Drop",
+        "Description": "High fire rate with no magazine size"
+    },
+    {
+        "Tier": "C",
+        "Name": "Phebert",
+        "Type": "Shotgun",
+        "Brand": "Hyperion",
+        "Drops From": "Drops from main story boss",
+        "Description": "Always radioactive"
+    },
+    {
+        "Tier": "C",
+        "Name": "Polyaimorous",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "D",
+        "Name": "Polybius",
+        "Type": "Shotgun",
+        "Brand": "Tediore",
+        "Drops From": "World Drop",
+        "Description": "Fires 4 projectiles in either a row or column of a Polybius square"
+    },
+    {
+        "Tier": "X",
+        "Name": "Porta-Pooper 5000",
+        "Type": "Rocket Launcher",
+        "Brand": "Cov",
+        "Drops From": "TBA",
+        "Description": "Shoots poop that does splash damage"
+    },
+    {
+        "Tier": "D",
+        "Name": "Predatory Lending",
+        "Type": "SMG",
+        "Brand": "Hyperion",
+        "Drops From": "Varkid Valley in Droughts Map",
+        "Description": "Uses money as bullets. $1 = 1 Shot."
+    },
+    {
+        "Tier": "S",
+        "Name": "Projectile Recursion",
+        "Type": "Shotgun",
+        "Brand": "Maliwan",
+        "Drops From": "World Drop",
+        "Description": "Projectiles shot will ricochet off of enemies and other surfaces"
+    },
+    {
+        "Tier": "D",
+        "Name": "Psycho Stabber",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "D",
+        "Name": "Quadomizer",
+        "Type": "Rocket Launcher",
+        "Brand": "Torgue",
+        "Drops From": "Rampager",
+        "Description": "Shoots multiple shots in a horizontal pattern"
+    },
+    {
+        "Tier": "B",
+        "Name": "Queen's Call",
+        "Type": "Pistol",
+        "Brand": "Jakobs",
+        "Drops From": "Final Boss",
+        "Description": "Critical hits return 3 bullets to your magazine, and ricochet 3 bullets at the nearest enemy."
+    },
+    {
+        "Tier": "D",
+        "Name": "Rebel Yell",
+        "Type": "Assault Rifle",
+        "Brand": "Atlas",
+        "Drops From": "World Drop",
+        "Description": "Regular bullets deal normal damage. Tracker bullets deal shock damage"
+    },
+    {
+        "Tier": "S",
+        "Name": "Redistributor",
+        "Type": "SMG",
+        "Brand": "Hyperion",
+        "Drops From": "Mission Reward",
+        "Description": "Every 7th shot is Amped, Amped shots chain to nearby enemies"
+    },
+    {
+        "Tier": "B",
+        "Name": "Redline",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "E",
+        "Name": "Ripper",
+        "Type": "SMG",
+        "Brand": "Dahl",
+        "Drops From": "World Drop",
+        "Description": "Does additional damage to enemies that was meleed"
+    },
+    {
+        "Tier": "B",
+        "Name": "Roisen's Thorns",
+        "Type": "Pistol",
+        "Brand": "Torgue",
+        "Drops From": "World Drop",
+        "Description": "Impact shoots 4 fire rockets and 1 corrosive. Sticky is only corrosive"
+    },
+    {
+        "Tier": "A",
+        "Name": "Rowan's Call",
+        "Type": "Assault Rifle",
+        "Brand": "Jakobs",
+        "Drops From": "World Drop",
+        "Description": "Critical hits return 2 bullets to your magazine, and ricochet 2 bullets at the nearest enemy."
+    },
+    {
+        "Tier": "C",
+        "Name": "Ruby's Wrath",
+        "Type": "Rocket Launcher",
+        "Brand": "Atlas",
+        "Drops From": "World Drop",
+        "Description": "Can home in on enemies. High damage rocket launcher"
+    },
+    {
+        "Tier": "E",
+        "Name": "Sawbar",
+        "Type": "Assault Rifle",
+        "Brand": "Cov",
+        "Drops From": "World Drop",
+        "Description": "Fires three projectiles at a time in a triangle formation"
+    },
+    {
+        "Tier": "E",
+        "Name": "Scorpio",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "S",
+        "Name": "Scourge",
+        "Type": "Rocket Launcher",
+        "Brand": "Torgue",
+        "Drops From": "World Drop",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "Scoville",
+        "Type": "Pistol",
+        "Brand": "Torgue",
+        "Drops From": "Torgue's Marketing Mistake challenge",
+        "Description": ""
+    },
+    {
+        "Tier": "B",
+        "Name": "Seeryul Killer",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Sellout",
+        "Type": "Pistol",
+        "Brand": "Maliwan",
+        "Drops From": "Sellout Side Mission",
+        "Description": "Quick laser that explodes as an orb on impact. Damages user"
+    },
+    {
+        "Tier": "A",
+        "Name": "Seventh Sense",
+        "Type": "Pistol",
+        "Brand": "Jakobs",
+        "Drops From": "Mission: Cold Case: Forgotten Answers",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "SF Force",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "Shocker",
+        "Type": "Shotgun",
+        "Brand": "Torgue",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "B",
+        "Name": "Shredifier (Super)",
+        "Type": "Assault Rifle",
+        "Brand": "Vladof",
+        "Drops From": "World Drop",
+        "Description": "Extremely high fire rate with a large magazine size"
+    },
+    {
+        "Tier": "S",
+        "Name": "Sickle",
+        "Type": "Assault Rifle",
+        "Brand": "Vladof",
+        "Drops From": "World Drop",
+        "Description": "Functions like a shotgun. Creates a pellet spread in the form of a sickle."
+    },
+    {
+        "Tier": "B",
+        "Name": "SkekSil",
+        "Type": "Pistol",
+        "Brand": "Cov",
+        "Drops From": "Drops from Legendary Hunt Skragg",
+        "Description": "Fires additional rockets with every other shots"
+    },
+    {
+        "Tier": "A",
+        "Name": "Skullsmasher",
+        "Type": "Sniper Rifle",
+        "Brand": "Jakobs",
+        "Drops From": "Gun, Love, and Tentacles",
+        "Description": ""
+    },
+    {
+        "Tier": "D",
+        "Name": "Sledges Shotgun",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Sleeping Giant",
+        "Type": "SMG",
+        "Brand": "Dahl",
+        "Drops From": "World Drop",
+        "Description": "May give weapon bonuses when reloaded"
+    },
+    {
+        "Tier": "C",
+        "Name": "Slow Hand",
+        "Type": "Shotgun",
+        "Brand": "Hyperion",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "D",
+        "Name": "Smart-Gun XXL",
+        "Type": "SMG",
+        "Brand": "Tediore",
+        "Drops From": "Gigamind",
+        "Description": "Spawns a Spider Gigamind when reloaded"
+    },
+    {
+        "Tier": "X",
+        "Name": "Soleki Protocol",
+        "Type": "Sniper Rifle",
+        "Brand": "Maliwan",
+        "Drops From": "Side Mission",
+        "Description": "Can shoots either in a vertical or horizal pattern of bullets that bounces off objects"
+    },
+    {
+        "Tier": "A",
+        "Name": "Soulrender",
+        "Type": "Assault Rifle",
+        "Brand": "Dahl",
+        "Drops From": "Gun, Love, and Tentacles",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "Star Helix",
+        "Type": "Assault Rifle",
+        "Brand": "Dahl",
+        "Drops From": "World Drop",
+        "Description": "Fires bullets that travel in a double helix formation"
+    },
+    {
+        "Tier": "X",
+        "Name": "Starkiller",
+        "Type": "Pistol",
+        "Brand": "Maliwan",
+        "Drops From": "Story Mission reward",
+        "Description": "Laser-type fire weapon that has a decent range and high fire damage"
+    },
+    {
+        "Tier": "B",
+        "Name": "Starous Burn",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "Storm",
+        "Type": "Sniper Rifle",
+        "Brand": "Maliwan",
+        "Drops From": "World Drop",
+        "Description": "High damage shock sniper rifle. Summons electric balls to its target"
+    },
+    {
+        "Tier": "E",
+        "Name": "Superball",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "E",
+        "Name": "T.K's Wave",
+        "Type": "Shotgun",
+        "Brand": "Jakobs",
+        "Drops From": "World Drop",
+        "Description": "Projectiles travel in a wave pattern. Ricochets off surfaces."
+    },
+    {
+        "Tier": "B",
+        "Name": "Tankmans Shield",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Thunderball Fists",
+        "Type": "Pistol",
+        "Brand": "Maliwan",
+        "Drops From": "World Drop",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Tidal Wave",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "B",
+        "Name": "Tiggs' Boom",
+        "Type": "Shotgun",
+        "Brand": "Torgue",
+        "Drops From": "Part of Takedown at Maliwan's Blacksite",
+        "Description": "TBA"
+    },
+    {
+        "Tier": "X",
+        "Name": "Traitor's Death",
+        "Type": "Assault Rifle",
+        "Brand": "Jakobs",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "B",
+        "Name": "Trevonator",
+        "Type": "Shotgun",
+        "Brand": "Maliwan",
+        "Drops From": "Drops from main story boss",
+        "Description": "Shoots multiple elemental orbs that does splash damage"
+    },
+    {
+        "Tier": "C",
+        "Name": "Try-Bolt",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "B",
+        "Name": "Tsunami",
+        "Type": "SMG",
+        "Brand": "Maliwan",
+        "Drops From": "Laser Control Room in Skywell-27 Map",
+        "Description": "Shoots either normal, corrosive, or shock bullets"
+    },
+    {
+        "Tier": "D",
+        "Name": "Tunguska",
+        "Type": "Rocket Launcher",
+        "Brand": "Torgue",
+        "Drops From": "World Drop",
+        "Description": "Fires 2 rockets that rise on impact before detonating"
+    },
+    {
+        "Tier": "D",
+        "Name": "Turbo Ten Gallon",
+        "Type": "SMG",
+        "Brand": "Tediore",
+        "Drops From": "World Drop",
+        "Description": "Thrown weapon that hovers and empties its magazine on enemies"
+    },
+    {
+        "Tier": "C",
+        "Name": "Unforgiven",
+        "Type": "Pistol",
+        "Brand": "Jakobs",
+        "Drops From": "World Drop",
+        "Description": "Extremely high critical hit damage"
+    },
+    {
+        "Tier": "S",
+        "Name": "Unseen Threat",
+        "Type": "Sniper Rifle",
+        "Brand": "Jakobs",
+        "Drops From": "World Drop",
+        "Description": ""
+    },
+    {
+        "Tier": "E",
+        "Name": "Vanquisher",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "E",
+        "Name": "Vault Hero",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Vosk's Deathgrip",
+        "Type": "Shotgun",
+        "Brand": "Maliwan",
+        "Drops From": "Troy Calypso, Valkyrie Squad, Wotan",
+        "Description": ""
+    },
+    {
+        "Tier": "A",
+        "Name": "Wagon Wheel",
+        "Type": "Pistol",
+        "Brand": "Jakobs",
+        "Drops From": "Loot-o-Gram / World Drop",
+        "Description": "Ricochets 6 bullets off enemy"
+    },
+    {
+        "Tier": "B",
+        "Name": "Warlord",
+        "Type": "Assault Rifle",
+        "Brand": "Dahl",
+        "Drops From": "World Drop",
+        "Description": "30% chance to not consume ammo. High fire rate and magazine size"
+    },
+    {
+        "Tier": "S",
+        "Name": "Wedding Invitation",
+        "Type": "Sniper Rifle",
+        "Brand": "Jakobs",
+        "Drops From": "Broken Hearts Day 2020",
+        "Description": ""
+    },
+    {
+        "Tier": "C",
+        "Name": "Westergun",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "B",
+        "Name": "Woodblocker",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    },
+    {
+        "Tier": "B",
+        "Name": "Zheitsevs Eruption",
+        "Type": "",
+        "Brand": "",
+        "Drops From": "",
+        "Description": ""
+    }
+]

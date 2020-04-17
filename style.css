@@ -1,0 +1,73 @@
+/* prevent jumping when adding or removing pages scrollbar */
+
+html {
+    margin-left: calc(100vw - 100%);
+}
+
+.gun {
+    flex: 0 0 300px;
+}
+
+input[type="search"] {
+    border-style: solid;
+    outline: 0;
+    padding: 0.5rem;
+    border-radius: 0.375rem;
+}
+
+input[type="search"]+input[type="reset"] {
+    border: 0;
+    outline: 0;
+    color: red;
+    margin-left: -2.5rem;
+    font-size: 2rem;
+    background-color: transparent;
+}
+
+input[type="search"]:placeholder-shown+input[type="reset"] {
+    visibility: hidden;
+}
+
+.tier {
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    color: #333;
+    border-radius: 0.5rem;
+    border: 2px solid #ccc;
+}
+
+.tierS .tier {
+    background-color: darkorange;
+    font-weight: bold;
+    color: #000;
+}
+
+.tierA .tier {
+    background-color: purple;
+    color: #ccc;
+}
+
+.tierB .tier {
+    background-color: blue;
+    color: #ccc;
+}
+
+.tierC .tier {
+    background-color: green;
+    color: #ccc;
+}
+
+.tierD .tier {
+    color: #666;
+    background-color: #dbdbdb;
+}
+
+.tierE .tier {
+    color: #666;
+    background-color: #dbdbdb;
+}
+
+.tierX {
+    display: none;
+}

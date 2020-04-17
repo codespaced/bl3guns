@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <form class="container">
+        <div class="sticky-top mt-2">
+            <input type="search" placeholder="Filter..." /><input type="reset" value="&times;">
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="d-flex flex-wrap justify-content-between" id="guns"></div>
+            </div>
+        </div>
+    </form>
+
+    <script>
+        let data = {};
+
+        function initData(file) {
+            fetch(file)
+                .then(response => response.json())
+                .then(json => {
+                    data.guns = json
+                    display('')
+                })
+        }
+
+        function display(term) {
+            let container = getContainer()
+            clearElement(container)
+            filterData(term).forEach((record, idx) => {
+                container.appendChild(createItem(record, idx))
+            })
+        }
+
+        function createItem(record, idx) {
+            let item = document.createElement('div')
+            item.classList.add('pl-1', 'mt-4', 'gun', `tier${record.Tier}`)
+            item.appendChild(buildTier(record))
+            item.appendChild(buildName(record))
+            return item
+        }
+
+        function clearElement(element) {
+            while (element.firstChild) {
+                element.removeChild(element.firstChild)
+            }
+        }
+
+        function buildTier(record) {
+            let span = document.createElement('span')
+            span.classList.add('tier', 'p-2')
+            span.appendChild(createText(record.Tier))
+            return span
+        }
+
+        function buildName(record) {
+            let span = document.createElement('span')
+            span.classList.add('m-2')
+            span.appendChild(createText(record.Name))
+            return span
+        }
+
+        function createText(text) {
+            return document.createTextNode(text);
+        }
+
+        function getContainer() {
+            return document.querySelector('#guns')
+        }
+
+        function getSearch() {
+            return document.querySelector('input[type=search]')
+        }
+
+        function getSearchTerm() {
+            return getSearch().value.toLowerCase()
+        }
+
+        function filterData(term) {
+            return data.guns.filter(item => item.Name.toLowerCase().includes(term))
+        }
+
+        document.addEventListener('reset', (event) => {
+            display('')
+        })
+
+        document.addEventListener('keyup', (event) => {
+            if (!event.target.matches('input[type=search]')) return;
+            let term = getSearchTerm()
+            display(term)
+        })
+
+        let filename = 'bl3_weapons.json';
+        initData(filename)
+    </script>
+</body>
+
+</html>
