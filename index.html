@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>bl3 Legendary Guns</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
     <link rel="stylesheet" href="style.css" />
 </head>
@@ -12,7 +12,7 @@
 <body>
     <form class="container">
         <div class="sticky-top mt-2">
-            <input type="search" placeholder="Filter..." /><input type="reset" value="&times;">
+            <input type="search" placeholder="Filter..." />
         </div>
         <div class="row">
             <div class="col">
@@ -89,12 +89,7 @@
             return data.guns.filter(item => item.Name.toLowerCase().includes(term))
         }
 
-        document.addEventListener('reset', (event) => {
-            display('')
-        })
-
-        document.addEventListener('keyup', (event) => {
-            if (!event.target.matches('input[type=search]')) return;
+        document.addEventListener('search', (event) => {
             let term = getSearchTerm()
             display(term)
         })
